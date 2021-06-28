@@ -1,0 +1,18 @@
+.text-error {
+  font-size: 15px;
+  color: #ff0000;
+}
+
+input#title {
+  border-bottom: 1px solid black;
+}
+
+.btn {
+  width: min-content;
+  margin-left: 20px;
+}
+
+.card {
+  width: 40rem;
+  margin: 20px;
+}
